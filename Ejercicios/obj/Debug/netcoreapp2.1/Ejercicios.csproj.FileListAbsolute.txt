@@ -1,0 +1,11 @@
+C:\Users\santi\source\repos\Ejercicios\Ejercicios\bin\Debug\netcoreapp2.1\Ejercicios.deps.json
+C:\Users\santi\source\repos\Ejercicios\Ejercicios\bin\Debug\netcoreapp2.1\Ejercicios.runtimeconfig.json
+C:\Users\santi\source\repos\Ejercicios\Ejercicios\bin\Debug\netcoreapp2.1\Ejercicios.runtimeconfig.dev.json
+C:\Users\santi\source\repos\Ejercicios\Ejercicios\bin\Debug\netcoreapp2.1\Ejercicios.dll
+C:\Users\santi\source\repos\Ejercicios\Ejercicios\bin\Debug\netcoreapp2.1\Ejercicios.pdb
+C:\Users\santi\source\repos\Ejercicios\Ejercicios\obj\Debug\netcoreapp2.1\Ejercicios.csprojAssemblyReference.cache
+C:\Users\santi\source\repos\Ejercicios\Ejercicios\obj\Debug\netcoreapp2.1\Ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\santi\source\repos\Ejercicios\Ejercicios\obj\Debug\netcoreapp2.1\Ejercicios.AssemblyInfoInputs.cache
+C:\Users\santi\source\repos\Ejercicios\Ejercicios\obj\Debug\netcoreapp2.1\Ejercicios.AssemblyInfo.cs
+C:\Users\santi\source\repos\Ejercicios\Ejercicios\obj\Debug\netcoreapp2.1\Ejercicios.dll
+C:\Users\santi\source\repos\Ejercicios\Ejercicios\obj\Debug\netcoreapp2.1\Ejercicios.pdb
