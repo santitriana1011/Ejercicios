@@ -55,13 +55,25 @@ namespace Ejercicios
             //Console.ReadLine();
 
             //Septimo Punto
-            
-            var mayorque = proy.Where(x => x.Duracion > 6).Select(x => x.Nombre + x.Area);
-            Console.WriteLine("Nombre de Proyecto: " + mayorque);
+            //var lista = project.proyectos;
+            //var area = lista.Where(x => x.Duracion > 6).Select(x =>
+            //   new Proyecto()
+            //   {
+            //       Nombre = x.Nombre,
+            //       Area = x.Area
 
+            //   }).ToList();
+            //project.ImprimirProyectos(area);
+
+            //Console.ReadLine();
+
+            //Noveno Punto
+            var ejerci = project.proyectos;
+            var sumar = ejerci.Where(x => x.Codigo > 20).Sum(x => x.Codigo);
+            Console.WriteLine($"{sumar}");
             Console.ReadLine();
 
         }
-            
+
     }
 }
