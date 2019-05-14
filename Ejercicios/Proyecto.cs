@@ -43,21 +43,21 @@ namespace Ejercicios
                     Nombre = "Bancaria",
                     Codigo = 23,
                     Area = "Comercio",
-                    Duracion = 6
+                    Duracion = 9
                 },
                 new Proyecto()
                 {
                     Nombre = "Mercadeo",
-                    Codigo = 23,
+                    Codigo = 14,
                     Area = "Talento Humano",
                     Duracion = 12
                 },
                 new Proyecto()
                 {
                     Nombre = "Atencion Primaria",
-                    Codigo = 27,
+                    Codigo = 21,
                     Area = "AIPI",
-                    Duracion = 18
+                    Duracion = 5
                 },
                 new Proyecto()
                 {
@@ -76,17 +76,15 @@ namespace Ejercicios
             };
             return proys;
         }
-        public void ImprimirProyectos()
+        public void ImprimirProyectos(List<Proyecto> proy)
         {
-            foreach (var item in proyectos)
+            foreach (var item in proy)
             {
-                if (item.Codigo > 25)
-                {
                     Console.WriteLine($"{item.Nombre}");
                     Console.WriteLine($"____{item.Codigo}___");
                     Console.WriteLine($"{item.Area}");
                     Console.WriteLine($"{item.Duracion}");
-                }
+                
             }
 
         }
